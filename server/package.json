@@ -1,0 +1,18 @@
+{
+  "name": "wspachachosserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "websocket": "^1.0.28",
+    "uws": "10.148.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "doc": "jsdoc -c conf.json -r"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
